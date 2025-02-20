@@ -1,0 +1,4 @@
+for this one, how it works:   cin>>name; *takes user input for the variable name.
+.     cin>> age, takes user input for age.
+.      the values are them printed back to the user 
+here we try running this program and enter different names and ages!
