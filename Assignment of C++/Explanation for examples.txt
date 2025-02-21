@@ -1,0 +1,19 @@
+* Explanation for example 1
+This hello word displayed with help of different main.cpp(c++ language) where we use
+#include <iostream>: include input,output library, this include a library that helps to use court(to print message to the screen) and cin(to read an integer from standard input)
+int main(): main function,this is where program start.
+Return 0; this indicate successfull excution.
+* Explanation for example 2
+Using data type and valuables to display the output and we cannot use special characters or space characters or space and even case sensitive
+Because Age is different from age, the first one start with upper case and the second one start with lower case.
+Must start with a letter or underscores (_).
+We have to declare their data type like int,float,double,bool,string
+* Explanation for example 3
+For this one, how it works:   cin>>name; *takes user input for the variable name.
+.     cin>> age, takes user input for age.
+.      The values are them printed back to the user 
+Here we try running this program and enter different names and ages!
+* Explanation for example  4
+Here we have operators,operators help us calculation and make decisions.
+It is also used for math operations, like addition,substraction,multiplication and division.
+Now that you understand the basics, we will move on to decisions making (if-else),loops,function, and more
